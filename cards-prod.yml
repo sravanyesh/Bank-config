@@ -3,7 +3,7 @@
 build:
   version: "2.11"
 cards:
-  message: "Welcome to EazyBank cards_production related local APIs "
+  message: "Welcome to EazyBank CARDS_PRODUCTION related local APIs "
   contactDetails:
     name: "John wick - Prod_Developer"
     email: "john@wick@gmail.com"
@@ -11,3 +11,4 @@ cards:
     - (888) 111-1234P
 
     - (000) 999-1345P
+
