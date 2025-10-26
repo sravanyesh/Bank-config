@@ -1,0 +1,12 @@
+
+
+build:
+  version: "4.122"
+loans:
+  message: "Welcome to bank_qa loans related local APIs "
+  contactDetails:
+    name: "John wick - QA_Developer"
+    email: "john@wick@gmail.com"
+  onCallSupport:
+    - (333) 111-2356
+    - (222) 444-3523

@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Johnprod Doe - Developer"
+    email: "johnprod@eazybank.com"
+  onCallSupport:
+    - (555) 555-123490
+    - (555) 523-134509

@@ -1,0 +1,11 @@
+
+build:
+  version: "2.10"
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "John wick - Developer"
+    email: "john@wick@gmail.com"
+  onCallSupport:
+    - (888) 111-1234
+    - (000) 999-1345

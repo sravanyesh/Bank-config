@@ -1,0 +1,11 @@
+
+build:
+  version: "2.12"
+cards:
+  message: "Welcome to EazyBank cards QA related local APIs "
+  contactDetails:
+    name: "John wick - QA_Developer"
+    email: "john@wick@gmail.com"
+  onCallSupport:
+    - (888) 111-1234Q
+    - (000) 999-1345Q
