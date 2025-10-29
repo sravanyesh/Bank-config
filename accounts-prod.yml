@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Bank accounts related PROD APIs "
+  message: "Welcome to Bank accounts related PROD WEBHOOK APIs "
   contactDetails:
     name: "Johnprod Doe - Developer"
     email: "{cipher}808609b28a7aab2f3f14df1956c20275c4a49093158572ccdd8b4090e8da4b2c2f61e806532f4ff81b23f1812a670dc2"
@@ -10,6 +10,7 @@ accounts:
     - (555) 555-123490
 
     - (555) 523-134509
+
 
 
 
