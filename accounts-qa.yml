@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related STAGE APIs "
+  message: "Welcome to EazyBank accounts related STAGE APIs using docker "
   contactDetails:
     name: "Johnqa Doe - Developer"
     email: "john@eazybankqa.com"
@@ -10,3 +10,4 @@ accounts:
     - (555) 555-123400
 
     - (555) 523-134511
+
